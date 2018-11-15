@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ContactCollectionCardView.xaml](./CS/PersonalOrganizer/Views/ContactCollectionCardView.xaml) (VB: [ContactCollectionCardView.xaml](./VB/PersonalOrganizer/Views/ContactCollectionCardView.xaml))
+* [ContactCollectionTableView.xaml](./CS/PersonalOrganizer/Views/ContactCollectionTableView.xaml) (VB: [ContactCollectionTableView.xaml](./VB/PersonalOrganizer/Views/ContactCollectionTableView.xaml))
+* **[MainView.xaml](./CS/PersonalOrganizer/Views/MainView.xaml) (VB: [MainView.xaml](./VB/PersonalOrganizer/Views/MainView.xaml))**
+<!-- default file list end -->
 # How to: Build an Office-inspired Application
 
 
