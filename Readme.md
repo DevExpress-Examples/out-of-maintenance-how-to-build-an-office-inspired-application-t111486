@@ -30,18 +30,18 @@
 * [IContactContextUnitOfWork.cs](./CS/PersonalOrganizer/ContactContextDataModel/IContactContextUnitOfWork.cs) (VB: [IContactContextUnitOfWork.vb](./VB/PersonalOrganizer/ContactContextDataModel/IContactContextUnitOfWork.vb))
 * [UnitOfWorkSource.cs](./CS/PersonalOrganizer/ContactContextDataModel/UnitOfWorkSource.cs) (VB: [UnitOfWorkSource.vb](./VB/PersonalOrganizer/ContactContextDataModel/UnitOfWorkSource.vb))
 * [MainWindow.xaml](./CS/PersonalOrganizer/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PersonalOrganizer/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/PersonalOrganizer/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/PersonalOrganizer/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/PersonalOrganizer/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PersonalOrganizer/MainWindow.xaml.vb))
 * [Contact.cs](./CS/PersonalOrganizer/Model/Contact.cs) (VB: [Contact.vb](./VB/PersonalOrganizer/Model/Contact.vb))
 * [ContactContext.cs](./CS/PersonalOrganizer/Model/ContactContext.cs) (VB: [ContactContextInitializer .vb](./VB/PersonalOrganizer/Model/ContactContextInitializer .vb))
 * [ContactContextInitializer .cs](./CS/PersonalOrganizer/Model/ContactContextInitializer .cs) (VB: [ContactContextInitializer .vb](./VB/PersonalOrganizer/Model/ContactContextInitializer .vb))
 * [ContactCollectionViewModel.cs](./CS/PersonalOrganizer/ViewModels/Contact/ContactCollectionViewModel.cs) (VB: [ContactCollectionViewModel.vb](./VB/PersonalOrganizer/ViewModels/Contact/ContactCollectionViewModel.vb))
 * [MainViewModel.cs](./CS/PersonalOrganizer/ViewModels/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/PersonalOrganizer/ViewModels/MainViewModel.vb))
 * [ContactCollectionCardView.xaml](./CS/PersonalOrganizer/Views/Contact/ContactCollectionCardView.xaml) (VB: [ContactCollectionCardView.xaml](./VB/PersonalOrganizer/Views/Contact/ContactCollectionCardView.xaml))
-* [ContactCollectionCardView.xaml.cs](./CS/PersonalOrganizer/Views/Contact/ContactCollectionCardView.xaml.cs) (VB: [ContactCollectionCardView.xaml](./VB/PersonalOrganizer/Views/Contact/ContactCollectionCardView.xaml))
+* [ContactCollectionCardView.xaml.cs](./CS/PersonalOrganizer/Views/Contact/ContactCollectionCardView.xaml.cs) (VB: [ContactCollectionCardView.xaml.vb](./VB/PersonalOrganizer/Views/Contact/ContactCollectionCardView.xaml.vb))
 * [ContactCollectionTableView.xaml](./CS/PersonalOrganizer/Views/Contact/ContactCollectionTableView.xaml) (VB: [ContactCollectionTableView.xaml](./VB/PersonalOrganizer/Views/Contact/ContactCollectionTableView.xaml))
-* [ContactCollectionTableView.xaml.cs](./CS/PersonalOrganizer/Views/Contact/ContactCollectionTableView.xaml.cs) (VB: [ContactCollectionTableView.xaml](./VB/PersonalOrganizer/Views/Contact/ContactCollectionTableView.xaml))
+* [ContactCollectionTableView.xaml.cs](./CS/PersonalOrganizer/Views/Contact/ContactCollectionTableView.xaml.cs) (VB: [ContactCollectionTableView.xaml.vb](./VB/PersonalOrganizer/Views/Contact/ContactCollectionTableView.xaml.vb))
 * [MainView.xaml](./CS/PersonalOrganizer/Views/MainView.xaml) (VB: [MainView.xaml](./VB/PersonalOrganizer/Views/MainView.xaml))
-* [MainView.xaml.cs](./CS/PersonalOrganizer/Views/MainView.xaml.cs) (VB: [MainView.xaml](./VB/PersonalOrganizer/Views/MainView.xaml))
+* [MainView.xaml.cs](./CS/PersonalOrganizer/Views/MainView.xaml.cs) (VB: [MainView.xaml.vb](./VB/PersonalOrganizer/Views/MainView.xaml.vb))
 <!-- default file list end -->
 # How to: Build an Office-inspired Application
 
